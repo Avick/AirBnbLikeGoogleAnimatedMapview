@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:context=".Activity.MainActivity">
+
+    <item android:id="@+id/action_native_map"
+        android:title="Use Native Map"
+        android:orderInCategory="100"
+        app:showAsAction="never"/>
+
+    <item android:id="@+id/action_google_web_map"
+        android:title="Use Google Web Map"
+        android:orderInCategory="100"
+        app:showAsAction="never"/>
+
+    <item android:id="@+id/action_google_china_web_map"
+        android:title="Use Google China Web Map"
+        android:orderInCategory="100"
+        app:showAsAction="never"/>
+
+    <!--<item android:id="@+id/action_mapbox_map"-->
+        <!--android:title="Use MapBox Map"-->
+        <!--android:orderInCategory="100"-->
+        <!--app:showAsAction="never"/>-->
+
+    <item android:id="@+id/action_clear_logs"
+        android:title="Clear logs"
+        android:orderInCategory="100"
+        app:showAsAction="never"/>
+
+    <item android:id="@+id/add_geojson_layer"
+        android:title="Add GeoJson layer"
+        android:orderInCategory="100"
+        app:showAsAction="never"/>
+
+    <item android:id="@+id/remove_geojson_layer"
+        android:title="Remove GeoJson layer"
+        android:orderInCategory="100"
+        app:showAsAction="never"/>
+
+    <item android:id="@+id/take_snapshot"
+        android:title="Take snapshot"
+        android:orderInCategory="100"
+        app:showAsAction="never"/>
+
+</menu>

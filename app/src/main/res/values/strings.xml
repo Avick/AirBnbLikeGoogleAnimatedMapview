@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">MapViewPlusViewPager</string>
+    <string name="access_token">pk.eyJ1IjoibmF0c3UwNSIsImEiOiJjaXc0MXMwM2YwM3hrMnpvMGVhZ2k4NmdwIn0.i2BxkgsVAf-JMo3UYA0TIw</string>
+    <string name="title_activity_maps">Map</string>
+</resources>
